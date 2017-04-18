@@ -1,4 +1,4 @@
-# Service-Worker-with-sw-precache
+# Service Worker with sw-precache
 
 This is from a Google Codelab that teaches you how to integrate service worker into an existing application and how to make it work offline. 
 You can learn how to do it by following the step-by-step available 
